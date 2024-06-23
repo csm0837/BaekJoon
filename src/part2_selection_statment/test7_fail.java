@@ -26,4 +26,4 @@ public class test7_fail
             }
         }
     }
-}
+}//Math.mas(a,b) = a,b 중 최대갓ㅂ
