@@ -23,6 +23,7 @@ public class test7 {
           System.out.println(i + 1);
         }
       }
+      System.out.println("가나다라");
 
     }
   }

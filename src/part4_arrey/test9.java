@@ -33,5 +33,6 @@ public class test9 {
     for (int i = 0; i < basket; i++) {
       System.out.print(arr1[i] + " ");
     }
+    System.out.println("최설닝");
   }
 }
